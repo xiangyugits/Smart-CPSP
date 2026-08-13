@@ -1,0 +1,18 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data / intermediate outputs
+*.rds
+*.h5
+*.h5seurat
+*.csv
+*.tsv
+!data/
